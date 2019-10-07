@@ -14,3 +14,10 @@ header{
     height: 15vw;
     object-fit: cover;
 }
+
+footer{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+
+}
